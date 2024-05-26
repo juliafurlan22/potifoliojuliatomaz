@@ -1,0 +1,73 @@
+body {
+    background-image: url('../tela\ de\ fundo\ do\ site.jpeg'); 
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 0;
+}
+
+header {
+    background-color: #07a17b;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: #444;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
+
+.contact {
+    padding: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+}
+
+img{
+    width:50%; 
+    height:50%; 
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+
+td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: center; 
+}

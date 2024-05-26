@@ -1,0 +1,7 @@
+body{
+    background-image: url('../tela\ de\ fundo\ do\ site.jpeg'); 
+    background-size: cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 10;
+    padding: 0;
+}
